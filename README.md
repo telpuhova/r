@@ -1,12 +1,12 @@
-# _Roman Numeral Translator_
+# Roman Numeral Translator
 
-#### _Roman Numeral Translator, 12/7/2017_
+Roman Numeral Translator, 12/7/2017
 
-#### By _**Julia Sheremet & Natalia Telpukhova**_
+**By Julia Sheremet & Natalia Telpukhova**
 
 ## Description
 
-_WebApp to translate numbers into roman numerals._
+WebApp to translate numbers into roman numerals.
 
 ### Specs
 | Behavior | Input | Output |
@@ -21,13 +21,13 @@ _WebApp to translate numbers into roman numerals._
 
 ## Setup
 
-* _clone repository_
-* _open index.html in browser_
+* clone repository
+* open index.html in browser
 
 ## Technologies Used
 
-_HTML, CSS, JS, Bootstrap, jquery_
+HTML, CSS, JS, Bootstrap, jquery
 
 ### License
 
-Copyright (c) 2017 ****_Julia Sheremet & Natalia Telpukhova_****
+Copyright (c) 2017 Julia Sheremet & Natalia Telpukhova
